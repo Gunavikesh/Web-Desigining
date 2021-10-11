@@ -1,0 +1,155 @@
+*
+{
+	font-family: cursive;
+}
+/*=======body start=========*/
+/*======section 1 css======*/
+.img11
+{
+	border-radius: 5%;
+}
+/*======section 2 css==*/
+.vision1
+{
+	font-weight: bold; 
+	font-size:30px;
+	border-bottom: 4px solid #51be78
+}
+.tab button
+{
+    display: block;
+    padding: 18px 20px;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: #fff;
+}
+.tablinks h4 
+{
+    color: #ed3237;
+    font-size: 17px;
+    font-weight: bold;
+}
+.tablinks p 
+{
+    font-size: 14px;
+    text-align: justify;
+}
+/*============*/
+.heading12
+{
+	font-weight: bolder; 
+	font-size:30px;
+border-bottom: 4px solid #51be78;
+}
+
+/*=======section 4====*/
+.counter-section 
+{
+    background-color: #2ba429de;
+    background-size: cover;
+    color: #fff;
+}
+.counter-title 
+{
+    margin: 50px 0px;
+    padding: 0px;
+}
+.icon-box
+{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin: 10% 0px;
+}
+.icon-box .fa 
+{
+    font-size: 41px;
+    margin: 25px -3px;
+    color: #120ff3;
+}
+.counter-youtube iframe
+{
+		height:346px;
+}
+/*====section-5=====*/
+
+.bg1-f {
+	background: url(../assets/images/home/feedback.jpg);
+    padding: 116px;
+}
+.feature-1 .fa,h2
+{
+	color:yellow;
+}
+.feature-1 p
+{
+	text-align: justify;
+	color:white;
+}
+.feature-1 .icon-wrapper, .person .icon-wrapper
+	{
+    position: relative;
+    width: 96px;
+    height: 55.43px;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    z-index: 1;
+    margin-top: -33.94px;
+    background: #ccc;
+	}
+.bg-primary 
+	{
+    background-color: #51be78!important;
+	}
+.feature-1 .icon-wrapper > span, .person .icon-wrapper > span 
+{
+    width: 96px;
+    height: 96px;
+    text-align: center;
+    font-size: 3rem;
+    line-height: 96px;
+    display: inline-block;
+    position: absolute;
+    top: -20px;
+    left: 0;
+}
+.border 
+{
+    border: 1px solid #dee2e6!important;
+}
+.ht
+{
+    height: 388px;
+}
+.feature-1 .feature-1-content, .person .feature-1-content
+{
+    padding: 50px 20px 20px 20px;
+    text-align: center;
+}
+.bg-primary
+{
+    background-color: #23b658!important;
+}
+.feature-1 .icon-wrapper:before, .feature-1 .icon-wrapper:after, .person .icon-wrapper:before, .person .icon-wrapper:after
+{
+    content: "";
+    position: absolute;
+    z-index: -1;
+    width: 67.88px;
+    height: 67.88px;
+    transform: scaleY(0.5774) rotate(-45deg);
+    background-color: inherit;
+    left: 14.06px;
+}
+.feature-1 .icon-wrapper:before, .person .icon-wrapper:before
+{
+top:-33.94px;	
+}
+.feature-1 .icon-wrapper:after, .person .icon-wrapper:after
+{
+bottom:-33.94px;	
+}
+

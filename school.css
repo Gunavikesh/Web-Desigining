@@ -1,0 +1,39 @@
+
+.lt 
+	{
+		list-style-type: none;
+	}
+.school{
+		background-image:url('../assets/images/bg.png');
+		background-size:cover;
+		}
+.a1,.bg,.modal
+	{
+		font-family: cursive;
+	}
+.nav-pills .nav-link {
+    border-radius: 6.25rem;
+}
+ .nava {background-color:#6fe892;}
+ .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff !important;
+    background-color: #129231 !important;
+    border-radius: 20px !important;
+    font-weight: bold;
+}
+.btn_2 {
+    display: inline-block;
+    padding: 13px 39px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 1px solid #0c2e60;
+    color: #0c2e60;
+    font-size: 14px;
+    transition: all .4s ease-in-out;
+    text-transform: capitalize;
+    background-size: 200% auto;
+    font-size: 15px;
+    font-weight: 500;
+	 
+}
+.btn_2:hover{background-image:linear-gradient(to left, #398938 0%, #00f958 51%, #1d7c27 100%);}

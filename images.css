@@ -1,0 +1,19 @@
+
+.colu{
+    width: 20%;
+    padding: 10px;
+    float: left;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5%;
+}
+.container-fluid
+	{
+		background-image:url('../assets/images/bg.png');
+		background-size:cover;
+	}
+.btn1{
+       font-family: cursive;
+	}

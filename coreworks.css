@@ -1,0 +1,48 @@
+.sec-bg,.mh
+	{
+		
+		background-image:url('../assets/images/bg.png');
+		font-family: cursive;
+		
+	}
+
+.guest
+	{
+		font-weight: bolder;
+		
+		font-size:30px;
+		border-bottom: 4px solid #51be78;
+	}
+.ind,.special
+	{
+		font-weight: bolder;
+		font-size:30px;
+		border-bottom: 4px solid #51be78;
+	}
+
+	
+
+.btn_2 {
+    display: inline-block;
+    padding: 13px 39px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 1px solid #0c2e60;
+    color: #0c2e60;
+    font-size: 14px;
+    transition: all .4s ease-in-out;
+    text-transform: capitalize;
+    background-size: 200% auto;
+    font-size: 15px;
+    font-weight: 500;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff !important;
+    background-color: #129231 !important;
+    border-radius: 20px !important;
+    font-weight: bold;
+}
+.nav-pills .nav-link {
+    border-radius: 6.25rem;
+	background-color:#6fe892; 
+}

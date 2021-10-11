@@ -1,0 +1,69 @@
+*
+{
+	font-family: cursive;
+	box-sizing:border-box;
+}
+
+/*=======section 2=======*/
+.sec-bg
+{
+	background:url('../assets/images/Out Reach/out-bg.png');	
+}
+.banner_text h3
+{
+	color:#1ad90d;
+	font-weight:bold;
+}
+.nav-pills .nav-link 
+{
+    color: #0e4bb3 !important;
+    background-color: #6fe892 !important;
+    border-radius: 20px !important;
+    font-weight: bold;
+}
+.nav-pills .nav-link.active
+{
+    color: #fff !important;
+    background-color: #129231 !important;
+    border-radius: 20px !important;
+    font-weight: bold;
+}
+.nav-pills .nav-link:hover
+{
+	color:red;
+}
+.btn_2 
+{
+    display: inline-block;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 1px solid #0c2e60;
+    color: #0c2e60;
+    font-size: 14px;
+    transition: all .4s ease-in-out;
+    text-transform: capitalize;
+    background-size: 200% auto;
+    font-size: 15px;
+    font-weight: 500;
+}
+.banner_part .banner_text .btn_2 
+{
+    padding: 13px 46px;
+}
+.bn 
+{
+    margin-left: 10px;
+}
+.btn_2:hover
+{
+    background-image: linear-gradient(to left, #398938 0%, #00f958 51%, #1d7c27 100%);
+	color: #fff !important;
+    background-position: right center;
+    border: 1px solid transparent;
+}
+.inner-img1 img 
+{
+    display: block;
+    width: 100%;
+	 height: 300px;
+}
